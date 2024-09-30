@@ -1,6 +1,6 @@
 # Sorting Algorithms and Binary Search Tree Implementation in JavaScript
 
-This project implements basic sorting and search algorithms in JavaScript. The project aims to create algorithm functions to use in your projects.
+This project implements sorting and search algorithms (Binary Search Tree) in JavaScript. I have created algorithm functions to use in your projects.
 
 ## Features
 

@@ -19,7 +19,7 @@ This project implements sorting and search algorithms (Binary Search Tree) in Ja
 2. Navigate to the project directory.
 
     ```bash
-    cd algorithms
+    cd your/algorithms/path
     ```
 
 3. Run the function that you need to use in your project.
